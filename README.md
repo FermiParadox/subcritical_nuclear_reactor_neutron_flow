@@ -1,6 +1,6 @@
 # subcrit_reactor_n_flow
 
-Click `neutron_flux.ipynb` above. Github will take care of the rest. 
+Click `neutron_flux.ipynb` in the main folder. Github will take care of the rest. 
 
 My main goal in this "project" is familiarizing myself with IPython, Sympy, Numpy, etc. 
 There might be errors since I didn't check it thoroughly.  
