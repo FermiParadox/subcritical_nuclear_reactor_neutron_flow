@@ -1,4 +1,4 @@
-# subcrit_reactor_n_flow
+# subcrit_reactor_neutron_flow
 
 Click [this](https://github.com/FermiParadox/subcrit_reactor_n_flow/blob/master/neutron_flux.ipynb). Github will take care of the rest. 
 
