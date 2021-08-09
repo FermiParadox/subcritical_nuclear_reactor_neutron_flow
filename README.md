@@ -1,4 +1,4 @@
-# subcrit reactor neutron flow
+# Subcritical reactor neutron flow
 
 Analysis of the experimental results of the neutron flow in a subcritical nuclear reactor.  
 
