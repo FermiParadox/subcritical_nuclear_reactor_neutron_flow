@@ -2,7 +2,7 @@
 
 Analysis of the experimental results of the neutron flow in a subcritical nuclear reactor (in Greek).
 
-[Click](https://github.com/FermiParadox/subcrit_reactor_n_flow/blob/master/neutron_flux.ipynb) to have Github render it. (There seems to be a Github bug and not everything is rendered properly anymore.)
+[Click](https://github.com/FermiParadox/subcrit_reactor_n_flow/blob/master/neutron_flux.ipynb) to have Github render it. 
 
 ![image](https://user-images.githubusercontent.com/10809024/144009247-01f60160-c9ed-433a-a3f9-8b41120f13f7.png)
 ![image](https://user-images.githubusercontent.com/10809024/144009297-fbace9f3-6b5e-4fd6-9cbf-829846248097.png)
